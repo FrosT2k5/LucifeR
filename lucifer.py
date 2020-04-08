@@ -95,7 +95,7 @@ def tables():
     while(j<=bl):
          print(ta,'x',j,'=',ta*j)
          j += 1
-         main()
+        
 
 def numgame():
     fun = float(input('Enter any number for its weight on other planets: '))
