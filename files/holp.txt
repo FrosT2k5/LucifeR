@@ -1,0 +1,8 @@
+The following options are available for calculator:
+
+1.square for sqauring a number
+2.cube for cubing a number
+3.sqrt or squareroot for getting squareroot of a number
+4.raiseto or raise or power for raising the power of number to specific index
+
+Thanks for using LucifeR Terminal. Have Fun :)

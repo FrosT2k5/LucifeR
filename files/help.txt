@@ -1,0 +1,9 @@
+The following options are available::
+
+1.calc or calculator for calculator
+2.lp or loopprint for loopprint
+3.tables for multiplication tables
+4.numbergame or weight for NumberGame
+5.help or h for help menu
+
+Thanks for using LucifeR Terminal. Have Fun :)
