@@ -1,5 +1,15 @@
 
 import sys
+import os
+
+def clr():
+    
+    if os.name == 'nt':
+        os.system('cls')
+    else:
+        os.system('clear')
+
+
 def banner ():
     ban = """
      _                _  __     _____  
@@ -118,6 +128,8 @@ while True:
         tables()
     elif inp == 'quit' or inp == 'exit':
         sys.exit()
+    elif inp == 'clear':
+        clr()
     else:
         print('Please enter one of the following options:')
         help()
